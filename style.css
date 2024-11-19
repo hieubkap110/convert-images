@@ -32,7 +32,6 @@ label {
 }
 
 input[type="file"] {
-    width: 100%;
     padding: 10px;
     margin: 10px 0;
     border: 1px solid #ddd;
@@ -180,7 +179,6 @@ button:hover {
     padding: 20px;
     border-radius: 8px;
     max-width: 90%;
-    max-height: 80%;
 }
 
 .modal-content img {
